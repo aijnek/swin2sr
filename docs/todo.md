@@ -1,2 +1,1 @@
-- 画像のclipをadaptiveにする．おそらく推論時のpatchサイズと関連があるはず
-- 効果の比較をするとき，元画像をviewerで拡大したもの，Pillowでresizeしたもの，SRのものを比較するとよい. とりあえずPillowのLanczosでResizeでいいんじゃない？というのはfairな疑問．
+- 画像のclipをadaptiveにする．おそらく推論時のpatchサイズと関連があるはず. とりあえず実装したがまだあわない

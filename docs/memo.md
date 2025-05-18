@@ -1,0 +1,2 @@
+- 効果の比較をするとき，元画像をviewerで拡大したもの，Pillowでresizeしたもの，SRのものを比較するとよい. とりあえずPillowのLanczosでResizeでいいんじゃない？というのはfairな疑問．
+- ピンボケには効果がない
